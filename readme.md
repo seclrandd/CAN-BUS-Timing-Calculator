@@ -8,4 +8,4 @@ In the Timing Calculation sheet, the first two deduction rows are commented. Do 
 
 Please wait for CAN FD or CAN XL support; I am still working on it in my spare time. Alternatively, feel free to upgrade this and push the new sheet into this repo! Subhanallah—all collaboration is welcome!
 
-![Example Usage](Calculation Example.png)
+![image alt](https://github.com/seclrandd/CAN-BUS-Timing-Calculator/blob/d67b676909383d0d02801cf46b21b1db60749967/Calculation%20Example.png)
